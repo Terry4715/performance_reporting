@@ -1,8 +1,8 @@
-# Codewars practice
+# Performance Reporting
 
-## kata collection
+## Project
 
-This repository is a collection of completed katas from Codewars using Python.
+This repository is an exploration of automating the performance reporting for unit linked funds using Python.
 
 ```print("Hello, World!")```
 
